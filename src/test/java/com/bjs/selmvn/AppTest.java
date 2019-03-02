@@ -35,4 +35,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    public void testLogin()
+    {
+        assertTrue( false );
+    }
+    
+    public void testSignUp(){
+    	assertTrue( true);
+    }
 }
